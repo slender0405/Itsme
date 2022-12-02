@@ -1,2 +1,1 @@
-"# Itsme" 
-"# slender0405.github.io" 
+"# slender0405.github.io"
